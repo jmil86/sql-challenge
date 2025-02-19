@@ -19,7 +19,7 @@ The following queries are included in Data_Analysis.sql:
 
 Use the provided schema to create the database, then load data from CSV files with the COPY commands.  Execute the SQL queries individually or via script against the resulting database
 
-## Database Schema
+## Table Schema
 
 table_schema.sql consists of the following tables:
 
