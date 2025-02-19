@@ -51,7 +51,7 @@ table_schema.sql consists of the following tables:
 
 ## Data Loading
 
-Data loading is handled by the COPY commands.  Your CSV files, named after their tables (e.g., titles.csv), need to be in the same directory as the SQL script for this to work.
+The COPY function loads data from the CSV files to their respective tables.
 
 ```sql
 COPY titles FROM 'titles.csv' DELIMITER ',' CSV HEADER;
