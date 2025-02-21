@@ -2,6 +2,7 @@
 # EmployeeSQL Queries
 
 This repository contains SQL queries and the schema for the EmployeeSQL database. The queries demonstrate various data retrieval techniques, including joins, filtering, and aggregation.
+All queries compiled and tested in pgAdmin4
 
 ## Queries
 
